@@ -1,0 +1,7 @@
+browserStackURL=https://%s:%s@hub-cloud.browserstack.com/wd/hub
+browserStackUsername=
+browserStackPassword=
+app=bs://123456
+device=Google Pixel 3
+os_version=9.0
+

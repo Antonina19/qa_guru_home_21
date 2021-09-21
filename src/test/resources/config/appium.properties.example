@@ -1,0 +1,10 @@
+appium.server.url=http://127.0.0.1:4723/wd/hub
+platform.name=Android
+device.name="Pixel_4_API_30"
+version=11.0
+app.url=https://github.com/wikimedia/apps-android-wikipedia/releases/download/latest/app-alpha-universal-release.apk
+
+# real device
+# device.name=01086e8ae4f33581
+# version=8.0
+
